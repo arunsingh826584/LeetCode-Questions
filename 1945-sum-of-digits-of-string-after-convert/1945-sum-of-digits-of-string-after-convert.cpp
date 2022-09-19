@@ -9,8 +9,6 @@ public:
                 p = p/10;
             }
         }
-        //System.out.println(sum);
-        
         while(k-->1){
             int r = 0;
             while(sum>0){
